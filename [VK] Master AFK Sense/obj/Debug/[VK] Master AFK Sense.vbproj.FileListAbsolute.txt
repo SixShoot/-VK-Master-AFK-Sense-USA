@@ -1,0 +1,60 @@
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe.config
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.pdb
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.xml
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form1.resources
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Resources.resources
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.GenerateResource.Cache
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.exe
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.xml
+d:\keanu\onedrive\visual studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.pdb
+D:\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form2.resources
+D:\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\Interop.SpeechLib.dll
+D:\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.ResolveComReference.cache
+D:\keanu\Downloads\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe.config
+D:\keanu\Downloads\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe
+D:\keanu\Downloads\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.pdb
+D:\keanu\Downloads\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.xml
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbprojResolveAssemblyReference.cache
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form1.resources
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form2.resources
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Resources.resources
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.GenerateResource.Cache
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.exe
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.xml
+D:\keanu\Downloads\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe.config
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form1.resources
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form2.resources
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Resources.resources
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.GenerateResource.cache
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.CoreCompileInputs.cache
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe.config
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form1.resources
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Resources.resources
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.GenerateResource.cache
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.CoreCompileInputs.cache
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\OneDrive\Visual Studio\Projects\[VK] Master AFK Sense USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe.config
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.pdb
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\bin\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbprojAssemblyReference.cache
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Form1.resources
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\_VK__Master_AFK_Sense.Resources.resources
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.GenerateResource.cache
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.vbproj.CoreCompileInputs.cache
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.exe
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.xml
+C:\Users\keanu\Documents\GitHub\-VK-Master-AFK-Sense-USA\[VK] Master AFK Sense\obj\Debug\[VK] Master AFK Sense.pdb
